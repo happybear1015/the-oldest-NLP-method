@@ -1,5 +1,4 @@
-# AI_practice_code
-sutdy in kkb code practice
+# 最古老的自然语言产生方式
 
 long long ago,the good and pupular methods in AI
 
